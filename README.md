@@ -1,4 +1,4 @@
-# Bulk Api's Health Checker ( hit 1000's of api & check health of api using status code )
+# Bulk Api's Validator Cum Health Checker ( hit 1000's of api & check health of api using status code )
 
 ## Introduction
 - This appplication can be used to check bulk api's status code by which we can understand health of that api and also utilize response from api's.
