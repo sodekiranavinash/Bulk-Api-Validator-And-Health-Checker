@@ -17,13 +17,13 @@
 pip install -r requirements.txt
 
 ```
-- Now run `python app.py` and wait for program to finish hitting api's & parsing them using data inside input file.
+- Now run `python app.py` and wait for program to finish hitting api's & parses them .
 
 ## Performance
 - In my benchmarks , it can process upto 5k records(urls) under 5 minutes. (depends on url , network connection & what your parsing out of response)
 
 ## Notes
-- aiohttp can be used for belwo 1000 api calls , after which it's session can be timed out thats why using Grequests.
+- aiohttp can be used for below 1000 api calls , after which it's session can be timed out thats why using Grequests.
 
 ## How to contributions
 - Anybody who can abtract the app into some template structure for use in pthon backends is always welcomed & appreciated.
